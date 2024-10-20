@@ -10,9 +10,9 @@
 
 ## Education 
 
-Bachelor of Applied Science - BASc, Manufacturing Engineer 
-Six Sigma Green Belt certification
-Meta Data Analyst Specialization certification
+- Bachelor of Applied Science - BASc, Manufacturing Engineer 
+- Six Sigma Green Belt certification
+- Meta Data Analyst Specialization certification
 
 ## Work Experience
 
