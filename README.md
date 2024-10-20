@@ -34,26 +34,25 @@ Data Analysis :
 [ 03/2023 – 06/2024 ] 
 City: Queenstown | Country: New Zealand 
 This job:
-    - Highlights my adventurous spirit: It emphasizes that i took initiative to gain construction experience during  
-      my working holiday visa in New Zealand.
-    - Showcases my adaptability: It demonstrates my ability to learn new skills and adapt to a new environment.
-    - Emphasizes teamwork and problem-solving: It illustrates my ability to collaborate effectively in two-people team
-      and overcome challenges.
-    - It highlights my passion for construction and the valuable skills i gained, while i'm subtly acknowledging that
-      outdoor winter work wasn't my favorite.
+- Highlights my adventurous spirit: It emphasizes that i took initiative to gain construction experience during  
+  my working holiday visa in New Zealand.
+- Showcases my adaptability: It demonstrates my ability to learn new skills and adapt to a new environment.
+- Emphasizes teamwork and problem-solving: It illustrates my ability to collaborate effectively in two-people team
+  and overcome challenges.
+- It highlights my passion for construction and the valuable skills i gained, while i'm subtly acknowledging that
+  outdoor winter work wasn't my favorite.
 
 ### Small business owner 
 [ 01/2021 – 01/2023 ] 
 City: Dubnica nad Váhom | Country: Slovakia 
 
-  - Owned and grew "Grill Dubnica" a popular food truck with delicious grilled chicken.
-  - Successfully navigated city regulations to secure prime operating locations, building a loyal following through
-    exceptional food and service.
-  - Ignited a 40% boost in social media engagement through targeted campaigns, resulting in a 15% jump in weekly
-    sales. Optimized inventory management to achieve zero food waste, maximizing profitability and resource
-    efficiency.
-  - Cultivated lasting customer relationships through a rewarding loyalty program, further increasing repeat business.
-  - Currently, my father manages the business while I pursue new career opportunities.
+- Owned and grew "Grill Dubnica" a popular food truck with delicious grilled chicken.
+- Successfully navigated city regulations to secure prime operating locations, building a loyal following through
+  exceptional food and service.
+- Ignited a 40% boost in social media engagement through targeted campaigns, resulting in a 15% jump in weekly
+  sales. Optimized inventory management to achieve zero food waste, maximizing profitability and resource efficiency.
+- Cultivated lasting customer relationships through a rewarding loyalty program, further increasing repeat business.
+- Currently, my father manages the business while I pursue new career opportunities.
 
 
 ### Process Engineer 
