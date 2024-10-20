@@ -20,7 +20,7 @@ Meta Data Analyst Specialization certification
 [ 09/2024 – Current ] 
 City: Leipzig | Country: Germany 
 
-Relocated to Leipzig to support my partner's Master's studies in Sustainability Development. This transition has
+**Relocated to Leipzig to support my partner's Master's studies** in Sustainability Development. This transition has
 provided an opportunity to pursue my enduring interest in data analysis, a skill developed through previous
 professional experiences
 
