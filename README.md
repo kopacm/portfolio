@@ -25,10 +25,10 @@ provided an opportunity to pursue my enduring interest in data analysis, a skill
 professional experiences
 
 Data Analysis :
-    - Applying analytical techniques to identify patterns and trends
-    - Drawing conclusions and insights from the data
-    - Data Visualization and Reporting
-    - Communicate findings effectively to both technical and non-technical audiences
+- Applying analytical techniques to identify patterns and trends
+- Drawing conclusions and insights from the data
+- Data Visualization and Reporting
+- Communicate findings effectively to both technical and non-technical audiences
 
 ### Working holiday visa New Zealand 
 [ 03/2023 – 06/2024 ] 
