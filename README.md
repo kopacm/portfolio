@@ -3,10 +3,10 @@
 #### Technical Skills: Excel,SQL,Python,Tableau,Looker Studio
 
 ## ABOUT ME
-✓ Corporate company : Process Engineer,Six Sigma,SQL
-✓ Run small business : Social Media Marketing,Self Management,Business Analysis
-✓ Working holiday New Zealand : Dream come true,Carpentry
-➡ Data Analyst : Meta Data Analyst Professional Certificate,Excel,SQL,Tableau,Python
+-✓ Corporate company : Process Engineer,Six Sigma,SQL
+-✓ Run small business : Social Media Marketing,Self Management,Business Analysis
+-✓ Working holiday New Zealand : Dream come true,Carpentry
+-➡ Data Analyst : Meta Data Analyst Professional Certificate,Excel,SQL,Tableau,Python
 
 ## Education 
 
