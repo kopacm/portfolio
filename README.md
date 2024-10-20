@@ -1,6 +1,6 @@
 # Data Analyst
 
-####Technical Skills: Excel,SQL,Python,Tableau,Looker Studio
+#### Technical Skills: Excel,SQL,Python,Tableau,Looker Studio
 
 ## Education 
 
