@@ -20,7 +20,7 @@ My Approach:
 3. Define the table relationships and create relational database 
 	- see PizzaDB.sql file or https://app.quickdatabasediagrams.com/#/d/rAoX3C
 4. Create all queries in SQL 
-	- see Dashboard_1_orders_query,[Dashboard_2_stock_query1](create.md),... in folder
+	- see Dashboard_1_orders_query,[Dashboard_2_stock_query1](QUERY/Dashboard_2_stock_query1.txt),... in folder
 5. Visualize dashboards in Looker studio 
 	- https://lookerstudio.google.com/reporting/12682c81-25b5-40e9-9856-e93422b88a84
 
