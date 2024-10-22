@@ -18,9 +18,9 @@ My Approach:
 2. Collect and normalize the data 
 	- I created fictional data - see .cvs in folder
 3. Define the table relationships and create relational database 
-	- see PizzaDB.sql file or https://app.quickdatabasediagrams.com/#/d/rAoX3C
+	- see [see here](/PizzaDB.sql) file or [graphics here](https://app.quickdatabasediagrams.com/#/d/rAoX3C)
 4. Create all queries in SQL 
-	- see [Dashboard_1_orders_query](QUERY/Dashboard_1_orders_query.txt),[Dashboard_2_stock_query1](QUERY/Dashboard_2_stock_query1.txt),[Dashboard_2_stock_query2](QUERY/Dashboard_2_stock_query2.txt),[Dashboard_3_staff_query](QUERY/Dashboard_3_staff_query)
+	- see [orders_query](QUERY/Dashboard_1_orders_query.txt),[stock_query1](QUERY/Dashboard_2_stock_query1.txt),[stock_query2](QUERY/Dashboard_2_stock_query2.txt),[staff_query](QUERY/Dashboard_3_staff_query)
 5. Visualize dashboards in Looker studio 
 	- [see here](https://lookerstudio.google.com/reporting/12682c81-25b5-40e9-9856-e93422b88a84)
 
