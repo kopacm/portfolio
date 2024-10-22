@@ -1,6 +1,6 @@
-# To by able to create dashboard_1 i need to query all necessary informations 
-# from order,item and address table which are connected via ID
-SELECT
+> To by able to create dashboard_1 i need to query all necessary informations 
+> from order,item and address table which are connected via ID
+`SELECT
   o.order_id,
   i.item_price,
   o.quantity,
@@ -15,4 +15,4 @@ SELECT
 FROM
   orders o
   LEFT JOIN item i ON o.item_id = i.item_id
-  LEFT JOIN address a ON o.add_id = a.add_id
+  LEFT JOIN address a ON o.add_id = a.add_id`
