@@ -19,5 +19,5 @@ GROUP BY
     ing_name
   ) AS s
   LEFT JOIN inventory inv ON inv.item_id = s.ing_id
-  LEFT JOIN ingredient ing ON ing.ing_id = s.ing_id                         -- total weight in stock = igredient quantity x ingredient weight
+  LEFT JOIN ingredient ing ON ing.ing_id = s.ing_id            -- total weight in stock = igredient quantity x ingredient weight
 ```
