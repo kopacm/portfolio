@@ -1,7 +1,7 @@
  To by able to create dashboard_1 i need to query all necessary informations 
  from order,item and address table which are connected via ID
 ```
-{SELECT
+SELECT
   o.order_id,
   i.item_price,
   o.quantity,
@@ -17,5 +17,5 @@ FROM
   orders o
   LEFT JOIN item i ON o.item_id = i.item_id
   LEFT JOIN address a ON o.add_id = a.add_id`
-}
+
 ```
