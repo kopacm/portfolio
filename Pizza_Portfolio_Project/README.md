@@ -16,7 +16,7 @@ information and data that the business generates. This will help him to monitor 
 ### My Approach:
 1. Design and built mock-up 
 2. Collect and normalize the data 
-	- I created fictional data - see .cvs in folder
+	- I created fictional data - [see .cvs](CSV/orders.csv) 
 3. Define the table relationships and create relational database 
 	- [see code here](PizzaDB.sql) or [graphics here](relational_database.png)
 4. Create all queries in SQL 
