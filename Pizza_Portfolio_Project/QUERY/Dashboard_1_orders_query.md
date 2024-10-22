@@ -1,5 +1,5 @@
-> To by able to create dashboard_1 i need to query all necessary informations 
-> from order,item and address table which are connected via ID
+ To by able to create dashboard_1 i need to query all necessary informations 
+ from order,item and address table which are connected via ID
 `SELECT
   o.order_id,
   i.item_price,
