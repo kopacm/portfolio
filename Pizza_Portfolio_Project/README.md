@@ -22,7 +22,7 @@ information and data that the business generates. This will help him to monitor 
 4. Create all queries in SQL 
 	- see Queries [orders_query](QUERY/Dashboard_1_orders_query.txt), [stock_query1](QUERY/Dashboard_2_stock_query1.txt), [stock_query2](QUERY/Dashboard_2_stock_query2.txt), [staff_query](QUERY/Dashboard_3_staff_query)
 5. Create all queries in SQL
-	- CSV ready for visualization [orders](Visualization/CSV/orders.csv), [orders](Visualization/CSV/stock_1.csv), [orders](Visualization/CSV/stock_2.csv), [orders](Visualization/CSV/staff.csv)
+	- CSV ready for visualization [orders](VISUALIZATION/CSV/orders.csv), [stock_1](VISUALIZATION/CSV/stock_1.csv), [stock_2](VISUALIZATION/CSV/stock_2.csv), [staff](VISUALIZATION/CSV/staff.csv)
 6. Visualize dashboards in Looker studio using CSV from Queries
 	- [see link here](https://lookerstudio.google.com/reporting/12682c81-25b5-40e9-9856-e93422b88a84) or [pdf here](VISUALIZATION/Report_pizza.pdf)
 
