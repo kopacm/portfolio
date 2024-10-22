@@ -9,7 +9,7 @@ SELECT
   sh.end_time,
   sh.day_of_week,
   ( ( TIMESTAMPDIFF( MINUTE, sh.start_time, sh.end_time ) ) / 60 ) AS working_hours, 
-  --- *getting working_hour from time difference start and end in minutes devided by 60 to hours* ---
+  --- getting working_hour from time difference start and end in minutes devided by 60 to hours ---
   ( ( TIMESTAMPDIFF( MINUTE, sh.start_time, sh.end_time ) ) / 60 ) * st.hourly_rate AS staff_cost 
   
 FROM
