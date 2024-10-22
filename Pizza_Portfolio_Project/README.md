@@ -22,6 +22,6 @@ My Approach:
 4. Create all queries in SQL 
 	- see [orders_query](QUERY/Dashboard_1_orders_query.txt),[stock_query1](QUERY/Dashboard_2_stock_query1.txt),[stock_query2](QUERY/Dashboard_2_stock_query2.txt),[staff_query](QUERY/Dashboard_3_staff_query)
 5. Visualize dashboards in Looker studio 
-	- [see here](https://lookerstudio.google.com/reporting/12682c81-25b5-40e9-9856-e93422b88a84)
+	- [see link here](https://lookerstudio.google.com/reporting/12682c81-25b5-40e9-9856-e93422b88a84) or [pdf here](VISUALIZATION/Report_pizza.pdf)
 
 
