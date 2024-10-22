@@ -3,7 +3,7 @@
 ### Made in: Quick DBD & MYSQL & Looker studio
 
 ## Fictional Task:
-/ New Pizza Store is running takeout and delivery business. 
+- New Pizza Store is running takeout and delivery business. 
 The owner requires to design and build relational database that allow him to capture and store all of important 
 information and data that the business generates. This will help him to monitor business performance in dashboards
 
