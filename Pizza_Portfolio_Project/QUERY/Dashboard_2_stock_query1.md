@@ -1,4 +1,5 @@
-# Total quantity by ingredient(No. of orders x ingredient quantity in recipe)
+> Total quantity by ingredient(No. of orders x ingredient quantity in recipe)
+```
 SELECT
   q1.item_name,
   q1.ing_id,
@@ -38,5 +39,5 @@ SELECT
       ing.ing_price,
       ing.ing_weight 
   ) q1
-  
-  -- to futher manipulate with this query i will create view stock_1 so i can refer to it as a table
+  ````
+  > to futher manipulate with this query i will create view stock_1 so i can refer to it as a table
