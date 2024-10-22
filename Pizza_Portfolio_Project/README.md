@@ -1,6 +1,6 @@
 # Portfolio Project: Pizza DB
 
-### Made in: Quick DBD & MYSQL & Looker studio
+#### Made in: Quick DBD & MYSQL & Looker studio
 
 ## Fictional Task:
 - New Pizza Store is running takeout and delivery business. 
