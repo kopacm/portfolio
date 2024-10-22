@@ -20,7 +20,7 @@ SELECT
       i.item_name,
       SUM( o.quantity ) AS order_quantity,              -- want to calculate order_quantity*recipy_quantity --> have to create sub-query so i can do that
       r.ing_id,                                         -- breaking down pizzas by ingredients
-      r.quantity AS recipe_quantity, -- getting ingredient's name
+      r.quantity AS recipe_quantity,                    -- getting ingredient's name
       ing.ing_name,
       ing.ing_price,
       ing.ing_weight 
