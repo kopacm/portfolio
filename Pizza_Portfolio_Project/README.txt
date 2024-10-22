@@ -16,12 +16,12 @@ The staff salary information
 My Approach:
 1. Design and built mock-up 
 2. Collect and normalize the data 
-	I created fictional data - see .cvs in folder
+	- I created fictional data - see .cvs in folder
 3. Define the table relationships and create relational database 
-	see PizzaDB.sql file or https://app.quickdatabasediagrams.com/#/d/rAoX3C
+	- see PizzaDB.sql file or https://app.quickdatabasediagrams.com/#/d/rAoX3C
 4. Create all queries in SQL 
-	see Dashboard_1_orders_query,Dashboard_2_stock_query1,... in folder
+	- see Dashboard_1_orders_query,Dashboard_2_stock_query1,... in folder
 5. Visualize dashboards in Looker studio 
-	https://lookerstudio.google.com/reporting/12682c81-25b5-40e9-9856-e93422b88a84
+	- https://lookerstudio.google.com/reporting/12682c81-25b5-40e9-9856-e93422b88a84
 
 
