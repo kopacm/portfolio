@@ -1,8 +1,3 @@
----
-tags:
-  - areas
-Links: "[[My Areas]]"
----
 
 ## Description of question 
 You are given a dataset that provides the number of active users per day per premium account. A premium account will have an entry for every day that it’s premium. However, a premium account may be temporarily discounted and considered not paid, this is indicated by a value of 0 in the final_price column for a certain day. Find out how many premium accounts that are paid on any given day are still premium and paid 7 days later. Output the date, the number of premium and paid accounts on that day, and the number of how many of these accounts are still premium and paid 7 days later. Since you are only given data for a 14 days period, only include the first 7 available dates in your output.
@@ -19,9 +14,9 @@ Table: premium_accounts_by_day
 ## Problem statement 
 The problem requires me to find how many premium accounts, that are paid on any given day, are still premium and paid 7 days later. I need to output the date, the number of premium and paid accounts on that day, and the number of these accounts that are still premium and paid 7 days later. Since data is provided for a 14-day period, I only need to consider the first 7 available dates in our output.
 
->[!table]- Source Table 
->
-|account_id|entry_date|users_visited_7d|final_price|plan_size|
+<details>
+  <summary>Source table</summary>
+  |account_id|entry_date|users_visited_7d|final_price|plan_size|
 |---|---|---|---|---|
 |A01|2022-02-07|1|100|10|
 |A03|2022-02-07|30|400|50|
@@ -77,6 +72,9 @@ The problem requires me to find how many premium accounts, that are paid on any 
 |A03|2022-02-20|191|0|50|
 |A04|2022-02-20|264|20|70|
 |A05|2022-02-20|25|350|30|
+
+</details>
+
 
 ## Code 
 
