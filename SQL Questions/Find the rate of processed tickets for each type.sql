@@ -1,5 +1,5 @@
 
-```
+
 SELECT
 processed_tickets/all_tickets as rate_of_proccesed,
 type
@@ -11,4 +11,4 @@ type
 FROM facebook_complaints
 group by type ) as counts
 group by type;
-```
+
