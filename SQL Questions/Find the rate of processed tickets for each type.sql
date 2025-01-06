@@ -2,7 +2,6 @@
 Output the employee title, gender (i.e., sex), along with the average total compensation."
   
 SELECT
-  
 processed_tickets/all_tickets as rate_of_proccesed,
 type
 from(
