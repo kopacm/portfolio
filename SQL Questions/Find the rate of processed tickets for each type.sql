@@ -1,5 +1,3 @@
-
-
 SELECT
 processed_tickets/all_tickets as rate_of_proccesed,
 type
