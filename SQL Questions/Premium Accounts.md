@@ -16,7 +16,7 @@ The problem requires me to find how many premium accounts, that are paid on any 
 
 <details>
   <summary>Source table</summary>
-  |account_id|entry_date|users_visited_7d|final_price|plan_size|
+|account_id|entry_date|users_visited_7d|final_price|plan_size|
 |---|---|---|---|---|
 |A01|2022-02-07|1|100|10|
 |A03|2022-02-07|30|400|50|
