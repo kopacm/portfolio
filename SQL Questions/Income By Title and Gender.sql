@@ -1,3 +1,6 @@
+"Find the average total compensation based on employee titles and gender. 
+Output the employee title, gender (i.e., sex), along with the average total compensation."
+    
 SELECT 
     employee_title,
     sex,
